@@ -1,0 +1,3 @@
+Ghi chú cho Chuc:
+- Nhớ commit đúng chuẩn
+- Đọc lại yêu cầu trước khi push
